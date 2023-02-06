@@ -1,6 +1,6 @@
 import type React from 'react';
 
-declare module '@mui/material/styles' {
+declare module '@mui/system' {
 
   interface Theme {
     status: {
